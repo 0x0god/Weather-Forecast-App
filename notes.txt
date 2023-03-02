@@ -8,7 +8,3 @@ Weather Forcast App
  Icon url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/${weather[0]["icon"]}.svg`
   - Pass through icon code recieved from main api
   Momentjs for time formatting
-
- Bonus
-- Add "allow location" feature to get users current location and display forcast
-- Animate view of forcast https://www.framer.com/api/motion/
